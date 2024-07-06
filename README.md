@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coorus, you can also call me sylvan!
+- 👋 Hi, I’m @coorus, you can also call me sylvan!I come from China, nice to meet you!
 - 👀 I’m interested in economics, accounting, programming and other interesting subjects!
 - 🌱 I’m currently learning java ee, linux, microeconomics...
 - 📫 Feel free to leave a message on my GitHub repository, and I'll get in touch with you.
